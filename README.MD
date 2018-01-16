@@ -1,0 +1,1 @@
+Trying to reproduce an error related to entities and directories having the same name.
